@@ -1,4 +1,4 @@
-## Olá amigod =D
+## Olá amigos =D
 
 Segue abaixo alguns links uteis sobre os assuntos ministrados no PT CJR 2019-2
 
