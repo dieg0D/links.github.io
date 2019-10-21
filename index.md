@@ -29,7 +29,7 @@ Segue abaixo alguns links úteis sobre os assuntos ministrados no PT CJR 2019-2
   - [Tutorial do site oficial](https://pt-br.reactjs.org/tutorial/tutorial.html)
   - [Tutorial do W3schools de react](https://www.w3schools.com/react/)
   - [React JS - Criando um App do Zero - Programador Br](https://www.youtube.com/watch?v=tbLziJchz48) 
-  - [Learn React.js in 4 Hours | React.js Tutorial | Edureka](https://www.youtube.com/watch?v=fSp2C7QPH8M)
+  - [Learn React.js in 4 Hours  React.js Tutorial  Edureka](https://www.youtube.com/watch?v=fSp2C7QPH8M)
   - [Recriando Pipefy do zero (com drag n' drop)](https://www.youtube.com/watch?v=awRtgpRsdTQ)
   - [Desvendando o Redux na prática](https://www.youtube.com/watch?v=u99tNt3TZf8)
 
