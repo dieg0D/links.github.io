@@ -22,6 +22,7 @@ Segue abaixo alguns links úteis sobre os assuntos ministrados no PT CJR 2019-2
   - [Tutorial do W3schools de JS](https://www.w3schools.com/js/)
   - [JavaScript básico MDN](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico)
 - **React jS**
+  - [Documentação](https://pt-br.reactjs.org/docs/hello-world.html)
   - [Tutorial do site oficial](https://pt-br.reactjs.org/tutorial/tutorial.html)
   - [Curso da Rocketseat de (JS e React)](https://rocketseat.com.br/starter/curso-gratuito-reactjs)   
   - [Utilizando Styled Components (CSS-in-JS)](https://www.youtube.com/watch?v=R3S8DEzEn6s)
